@@ -1,0 +1,2 @@
+# rickyflash
+safelink
